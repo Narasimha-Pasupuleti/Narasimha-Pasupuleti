@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Pasupuleti Narasimha
 
-<!--
-**Narasimha-Pasupuleti/Narasimha-Pasupuleti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Graduate in **Computer Science and Engineering** from *Vaagdevi College of Engineering*.
 
-Here are some ideas to get you started:
+💡 I’m passionate about building robust and scalable **Full-Stack Web Applications** using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, HTML, CSS  
+- **Frameworks**: React.js, Node.js [starting learning]
+- **Databases**: SQL
+- **Tools**: Git, GitHub, VS Code  
+- **Domains**: Full-Stack Development, Web Development, Frontend Development, Backend Development 
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Narasimha-Pasupuleti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Narasimha-Pasupuleti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Narasimha-Pasupuleti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+---
+
+## 📫 Contact
+
+- 📧 Email: narasimhapasupuleti7730@gmail.com  
+- 📞 Phone: 7730986078  
+- 💼 LinkedIn: [Narasimha](https://www.linkedin.com/in/narasimha-pasupuleti)
+
+---
+
+Thanks for visiting my profile! Feel free to connect. 🚀
